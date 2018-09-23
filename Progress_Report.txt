@@ -1,0 +1,8 @@
+Name:		Venkata Praneeth Mummaneni	
+UML ID:		01662636
+Email:		venkatapraneeth_mummaneni@student.uml.edu
+Project:	Recipe Recommender
+---------------------------------------------------------------------
+Week 1: 17-23 September, 2019
+
+Learning ReactJS to form a front end for the project.
