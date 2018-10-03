@@ -6,3 +6,8 @@ Project:	Recipe Recommender
 Week 1: 17-23 September, 2019
 
 Learning ReactJS to form a front end for the project.
+---------------------------------------------------------------------
+Week 2: 24-30 September, 2019
+
+Learning routing in ReactJS. 
+Will finish learning and start coding for the project from next week.
