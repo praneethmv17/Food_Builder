@@ -17,4 +17,5 @@ Learnt Redux(a ReactJS add-on) while helps maintain state in ReactJS
 ---------------------------------------------------------------------
 Week 4: 10-16 October, 2019
 
-Worked on making a simple React project. Link: 
+Worked on making a simple React project. Link: https://github.com/praneethmv17/Burger_Builder
+This was based on some online tutorials
