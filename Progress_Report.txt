@@ -15,4 +15,6 @@ Week 3: 1-9 October, 2019
 
 Learnt Redux(a ReactJS add-on) while helps maintain state in ReactJS
 ---------------------------------------------------------------------
+Week 4: 10-16 October, 2019
 
+Worked on making a simple React project. Link: 
