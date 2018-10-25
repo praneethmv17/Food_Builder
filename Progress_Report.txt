@@ -3,19 +3,23 @@ UML ID:		01662636
 Email:		venkatapraneeth_mummaneni@student.uml.edu
 Project:	Recipe Recommender
 ---------------------------------------------------------------------
-Week 1: 17-23 September, 2019
+Week 1: 17-23 September, 2018
 
 Learning ReactJS to form a front end for the project.
 ---------------------------------------------------------------------
-Week 2: 24-30 September, 2019
+Week 2: 24-30 September, 2018
 
 Learning routing in ReactJS. 
 ---------------------------------------------------------------------
-Week 3: 1-9 October, 2019
+Week 3: 1-9 October, 2018
 
 Learnt Redux(a ReactJS add-on) while helps maintain state in ReactJS
 ---------------------------------------------------------------------
-Week 4: 10-16 October, 2019
+Week 4: 10-16 October, 2018
 
 Worked on making a simple React project. Link: https://github.com/praneethmv17/Burger_Builder
 This was based on some online tutorials
+-----------------------------------------------------------------------------------------------
+Week 5: 17-23 October, 2018
+
+Worked on the project linked above. Added Redux and middleware to it.
