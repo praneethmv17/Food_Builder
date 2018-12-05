@@ -1,25 +1,78 @@
 Name:		Venkata Praneeth Mummaneni	
 UML ID:		01662636
 Email:		venkatapraneeth_mummaneni@student.uml.edu
-Project:	Recipe Recommender
+Project:	Burger Builder
+Project Link: https://react-my-burger-4d77a.firebaseapp.com/
 ---------------------------------------------------------------------
-Week 1: 17-23 September, 2018
+Week 1:
 
-Learning ReactJS to form a front end for the project.
+Created a basic react app using create-react-app on npm and added some styling components and JavaScript ES6 code to start off the project.
+
+Main challenge was learning ES6 format and I learnt and implemented it after watching some videos online.
 ---------------------------------------------------------------------
-Week 2: 24-30 September, 2018
+Week 2: 
 
-Learning routing in ReactJS. 
+Created a simple blog app to understand how to access JSON data from web using the "axios" package.
+
+Challenge I faced was to find a way to get JSON data stored in an online Database to my app. I came across the "axios" package and implemented the GET request to a mock JSON data site and experimented with it.
 ---------------------------------------------------------------------
-Week 3: 1-9 October, 2018
+Week 3:
 
-Learnt Redux(a ReactJS add-on) while helps maintain state in ReactJS
+Extended the burger project to send data to Google Firebase in JSON format.
+
+Challenge I faced was to find a way to send JSON data to an online database. I came accross "Google Firebase" which stores data in JSON format and is pretty easy to use.
 ---------------------------------------------------------------------
-Week 4: 10-16 October, 2018
+Week 4:
 
-Worked on making a simple React project. Link: https://github.com/praneethmv17/Burger_Builder
-This was based on some online tutorials
+Added Routing to the burger-project using 'react-router' package
+
+Challenge I faced was to find a way to send route data to and from Firebase. I came across 'react-router' which allows me to access past order data on Firebase through GET and to post new orders to Firebase using POST.
 -----------------------------------------------------------------------------------------------
-Week 5: 17-23 October, 2018
+Week 5:
 
-Worked on the project linked above. Added Redux and middleware to it.
+Added forms and form validation to the burger-project to send to Firebase
+
+Challenge I faced was to find a way to send form data to Firebase. I devised form validations such that they included Name, Address, Zipcode(5 characters), Country, Email to be sent to Firebase.
+-----------------------------------------------------------------------------------------------
+Week 6:
+
+Added forms and form validation to the burger-project to send to Firebase
+
+Challenge I faced was to find a way to send form data to Firebase. I devised form validations such that they included Name, Address, Zipcode(5 characters), Country, Email to be sent to Firebase.
+-----------------------------------------------------------------------------------------------
+Week 7:
+
+Added Redux to burger-project.
+
+Was facing difficulties in trying to access burger ingredients over different files in the application. Fixed this by implementing "Redux".
+-----------------------------------------------------------------------------------------------
+Week 8:
+
+Added some under the hood changes involving Redux.
+
+Simplified some code by adding advanced Redux functionality.
+-----------------------------------------------------------------------------------------------
+Week 9:
+
+Added authentication to the project.
+
+The project needs users to log in to place orders or view their past orders. So, I have added Authentication using the email/password verification feature available in Firebase.
+-----------------------------------------------------------------------------------------------
+Week 10:
+
+Simplified some more complex code.
+
+The code was simplified by adding a few higher order components as wrappers to frequently updated components which lead to less code in general.
+-----------------------------------------------------------------------------------------------
+Week 11:
+
+Performed tests.
+
+Used React's internal test as well as Enzyme to test a few cases.
+-----------------------------------------------------------------------------------------------
+Week 12:
+
+Deployed the project to Firebase.
+
+Deployed the project to Firebase so that my app can be available online.
+-----------------------------------------------------------------------------------------------
