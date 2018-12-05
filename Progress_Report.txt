@@ -6,45 +6,57 @@ Project Link: https://react-my-burger-4d77a.firebaseapp.com/
 ---------------------------------------------------------------------
 Week 1:
 
-Created a basic react app using create-react-app on npm and added some styling components and JavaScript ES6 code to start off the project.
+Created a basic react app using create-react-app on npm and added some 
+styling components and JavaScript ES6 code to start off the project.
 
-Main challenge was learning ES6 format and I learnt and implemented it after watching some videos online.
+Main challenge was learning ES6 format and I learnt and implemented it 
+after watching some videos online.
 ---------------------------------------------------------------------
 Week 2: 
 
 Created a simple blog app to understand how to access JSON data from web using the "axios" package.
 
-Challenge I faced was to find a way to get JSON data stored in an online Database to my app. I came across the "axios" package and implemented the GET request to a mock JSON data site and experimented with it.
+Challenge I faced was to find a way to get JSON data stored in an online Database to my app. 
+I came across the "axios" package and implemented the GET request 
+to a mock JSON data site and experimented with it.
 ---------------------------------------------------------------------
 Week 3:
 
 Extended the burger project to send data to Google Firebase in JSON format.
 
-Challenge I faced was to find a way to send JSON data to an online database. I came accross "Google Firebase" which stores data in JSON format and is pretty easy to use.
+Challenge I faced was to find a way to send JSON data to an online database. 
+I came accross "Google Firebase" which stores data in JSON format and is pretty easy to use.
 ---------------------------------------------------------------------
 Week 4:
 
 Added Routing to the burger-project using 'react-router' package
 
-Challenge I faced was to find a way to send route data to and from Firebase. I came across 'react-router' which allows me to access past order data on Firebase through GET and to post new orders to Firebase using POST.
+Challenge I faced was to find a way to send route data to and from Firebase. 
+I came across 'react-router' which allows me to access past order data on 
+Firebase through GET and to post new orders to Firebase using POST.
 -----------------------------------------------------------------------------------------------
 Week 5:
 
 Added forms and form validation to the burger-project to send to Firebase
 
-Challenge I faced was to find a way to send form data to Firebase. I devised form validations such that they included Name, Address, Zipcode(5 characters), Country, Email to be sent to Firebase.
+Challenge I faced was to find a way to send form data to Firebase. 
+I devised form validations such that they included 
+Name, Address, Zipcode(5 characters), Country, Email to be sent to Firebase.
 -----------------------------------------------------------------------------------------------
 Week 6:
 
-Added forms and form validation to the burger-project to send to Firebase
+Learnt Redux(an essential package to pair with React) by creating a simple calculator app.
 
-Challenge I faced was to find a way to send form data to Firebase. I devised form validations such that they included Name, Address, Zipcode(5 characters), Country, Email to be sent to Firebase.
+As the application grew bigger, finding ways to access objects became much more complex and challenging. 
+In order to solve this, I learnt "Redux" which can be used to implement reducers to 
+dispatch state/objects throughtout files in the app. Thus, access to state became much more easier.
 -----------------------------------------------------------------------------------------------
 Week 7:
 
 Added Redux to burger-project.
 
-Was facing difficulties in trying to access burger ingredients over different files in the application. Fixed this by implementing "Redux".
+Was facing difficulties in trying to access burger ingredients over different files in the application. 
+Fixed this by implementing "Redux".
 -----------------------------------------------------------------------------------------------
 Week 8:
 
@@ -56,13 +68,15 @@ Week 9:
 
 Added authentication to the project.
 
-The project needs users to log in to place orders or view their past orders. So, I have added Authentication using the email/password verification feature available in Firebase.
+The project needs users to log in to place orders or view their past orders. 
+So, I have added Authentication using the email/password verification feature available in Firebase.
 -----------------------------------------------------------------------------------------------
 Week 10:
 
 Simplified some more complex code.
 
-The code was simplified by adding a few higher order components as wrappers to frequently updated components which lead to less code in general.
+The code was simplified by adding a few higher order components as wrappers to 
+frequently updated components which lead to less code in general.
 -----------------------------------------------------------------------------------------------
 Week 11:
 
