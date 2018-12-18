@@ -54,7 +54,7 @@ I have utilized the info in the links below to make HTTP requests(GET/POST) to t
 • https://www.npmjs.com/package/axios
 • https://hackernoon.com/tutorial-how-to-make-http-requests-in-react-part-3-daa6b31b66be
 
-I have utilized the info in the links below to gain a better understanding of Redux.  :-
+I have utilized the info in the links below to gain a better understanding of Redux. Code(mainly of the "connect" component) in the following links is being utilized in App.js, Auth.js, Logout.js, BurgerBuilder.js, Checkout.js, ContactData.js, Layout.js, index.js in order to distribute authentication/ingredients/order data(which is common for all mentioned components) as properties to each component :-
 • https://redux.js.org/basics/usagewithreact
 • https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-tobeginning-redux-c695f45546f6
 
