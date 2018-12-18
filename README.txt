@@ -50,7 +50,6 @@ The below link contains essential information to host your project on Firebase, 
 • Real-time database: https://firebase.google.com/docs/database/
 • Authentication: https://firebase.google.com/docs/auth/
 
-
 I have utilized the info in the links below to make HTTP requests(GET/POST) to the Firebase database :- 
 • https://www.npmjs.com/package/axios
 • https://hackernoon.com/tutorial-how-to-make-http-requests-in-react-part-3-daa6b31b66be
