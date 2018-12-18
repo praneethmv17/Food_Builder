@@ -2,7 +2,7 @@ Name:		Venkata Praneeth Mummaneni
 UML ID:		01662636
 Email:		venkatapraneeth_mummaneni@student.uml.edu
 Project:	Burger Builder
-Project Link: http://cs.uml.edu/~vmummane/IWS1/Final_Project/burger-project
+Project Link: http://weblab.cs.uml.edu/~vmummane/IWS1/Final_Project/burger-project
 ---------------------------------------------------------------------
 Week 1:
 
