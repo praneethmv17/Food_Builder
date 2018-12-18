@@ -21,13 +21,24 @@ Instructions:
 ------------------------------------------------------------------------------------------------------------------------------------
 References:
 
-• https://reactjs.org/
-• https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-thissingle-medium-article-c83f9b53eac2
-• https://www.udemy.com/react-the-complete-guide-incl-redux/
-• https://firebase.google.com/docs/
-• https://www.npmjs.com/package/axios
-• https://hackernoon.com/tutorial-how-to-make-http-requests-in-react-part-3-daa6b31b66be
-• https://redux.js.org/basics/usagewithreact
-• https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-tobeginning-redux-c695f45546f6
-• https://reacttraining.com/react-router/web/guides/quick-start
-• https://www.npmjs.com/package/react-router-dom
+I have used below sources to gain a basic understanding of ReactJS:-
+â€¢ https://reactjs.org/
+â€¢ https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-thissingle-medium-article-c83f9b53eac2
+
+I have used the below course to get a better understanding of ReactJS/Redux and build the burger-project step by step :-
+â€¢ https://www.udemy.com/react-the-complete-guide-incl-redux/
+
+The below link contains essential information to host your project on Firebase, handle authentication and use the real-time database :-
+â€¢ https://firebase.google.com/docs/
+
+I have utilized the info in the links below to make HTTP requests(GET/POST) to the Firebase database :- 
+â€¢ https://www.npmjs.com/package/axios
+â€¢ https://hackernoon.com/tutorial-how-to-make-http-requests-in-react-part-3-daa6b31b66be
+
+I have utilized the info in the links below to gain a better understanding of Redux :-
+â€¢ https://redux.js.org/basics/usagewithreact
+â€¢ https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-tobeginning-redux-c695f45546f6
+
+I have utilized the info in the links below to handle internal routing in my App :-
+â€¢ https://reacttraining.com/react-router/web/guides/quick-start
+â€¢ https://www.npmjs.com/package/react-router-dom
