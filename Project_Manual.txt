@@ -2,6 +2,7 @@ Name:		Venkata Praneeth Mummaneni
 UML ID: 	01662636
 UML Email-ID:	venkatapraneeth_mummaneni@student.uml.edu
 Project Link:	http://weblab.cs.uml.edu/~vmummane/IWS1/Final_Project/burger-project/
+(NOTE: I was not able to deploy my App on weblab server even after numerous tries due to configuration issues, so I have deployed it on Google Firebase. The above link on weblab redirects users to the address where my App is being hosted by Firebase)
 ---------------------------------------------------------------------------------------------------------------------------
 Instructions:
 
