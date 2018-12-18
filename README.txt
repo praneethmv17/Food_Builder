@@ -50,14 +50,17 @@ The below link contains essential information to host your project on Firebase, 
 • Real-time database: https://firebase.google.com/docs/database/
 • Authentication: https://firebase.google.com/docs/auth/
 
-I have utilized the info in the links below to make HTTP requests(GET/POST) to the Firebase database :- 
+I have utilized the info in the links below to make HTTP requests(GET/POST) to the Firebase database in files axios-orders.js(to create an instance of baseURL to the database on Firebase), BurgerBuilder.js, ContactData.js(in order to POST Contact Data), Orders.js, withErrorHandler(for error handling), auth.js(to POST User authentication data onto Firebase), burgerBuilder.js(GET to retrieve ingredients initially from Firebase) and order.js(to GET previous orders and to POST new orders) :- 
 • https://www.npmjs.com/package/axios
 • https://hackernoon.com/tutorial-how-to-make-http-requests-in-react-part-3-daa6b31b66be
 
-I have utilized the info in the links below to gain a better understanding of Redux :-
+I have utilized the info in the links below to gain a better understanding of Redux. Code(mainly of the "connect" component) in the following links is being utilized in App.js, Auth.js, Logout.js, BurgerBuilder.js, Checkout.js, ContactData.js, Layout.js, index.js in order to distribute authentication/ingredients/order data(which is common for all mentioned components) as properties to each component :-
 • https://redux.js.org/basics/usagewithreact
 • https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-tobeginning-redux-c695f45546f6
 
-I have utilized the info in the links below to handle internal routing in my App :-
+I have utilized the info in the links below to handle internal routing in my App. I have used code from the 1st link below namely the code for <Route> for internal routing, <Redirect> for redirection to specific paths in case of an invalid URL, <BrowserRouter> to allow routing throughout the App, <Switch> to Switch between paths in App.js/Index.js :-
 • https://reacttraining.com/react-router/web/guides/quick-start
 • https://www.npmjs.com/package/react-router-dom
+
+I have used the 2nd spinner CSS code present in the following source to implement a Spinner in Auth.js(to show that User authentication is in progress), BurgerBuilder.js(to show that ingredients are being loaded), ContactData.js(to show that contact data is being sent to Firebase) and in Orders.js(to show that past orders are being retrieved) :-
+• https://projects.lukehaas.me/css-loaders/
