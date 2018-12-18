@@ -11,6 +11,8 @@ To install the project on your local system perform the following steps :-
 2.) Download files from the following directory: "https://github.com/praneethmv17/Food_Builder/tree/master/Week_12"
     (OR)
     Navigate to the "Week_12" folder after downloading the whole project from "https://github.com/praneethmv17/Food_Builder"
+    (OR)
+    If you want to check the progress of each week, you can navigate to the project folder present in each week after downloading the       whole project from "https://github.com/praneethmv17/Food_Builder" and then navigate to the week you want to access.
 3.) Navigate to the burger-project folder.
 4.) Open Windows PowerShell(or)Terminal in the folder.
 5.) Execute the following command to start the project - "npm start"
