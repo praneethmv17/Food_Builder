@@ -39,11 +39,15 @@ I have used below sources to gain a basic understanding of ReactJS:-
 • https://reactjs.org/
 • https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-thissingle-medium-article-c83f9b53eac2
 
-I have used the below course to get a better understanding of ReactJS/Redux and build the burger-project step by step :-
+I have used the below course by Maximilian Schwarzmuller to get a better understanding of ReactJS/Redux and build the burger-project step-by-step :-
 • https://www.udemy.com/react-the-complete-guide-incl-redux/
 
 The below link contains essential information to host your project on Firebase, handle authentication and use the real-time database :-
 • https://firebase.google.com/docs/
+• Hosting: https://firebase.google.com/docs/hosting/
+• Real-time database: https://firebase.google.com/docs/database/
+• Authentication: https://firebase.google.com/docs/auth/
+
 
 I have utilized the info in the links below to make HTTP requests(GET/POST) to the Firebase database :- 
 • https://www.npmjs.com/package/axios
