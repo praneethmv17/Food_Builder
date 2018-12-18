@@ -4,7 +4,12 @@ UML Email-ID:	venkatapraneeth_mummaneni@student.uml.edu
 Project Link:	http://weblab.cs.uml.edu/~vmummane/IWS1/Final_Project/burger-project/
 ---------------------------------------------------------------------------------------------------------------------------
 Instructions:
- 
+
+To install the project on your local system perform the following steps :-
+
+1.) Install node package manager(npm) after downloading it from the following link "https://nodejs.org/en/".
+2.)
+
 1.) Open "http://weblab.cs.uml.edu/~vmummane/IWS1/Final_Project/burger-project/". The Burger App will start up.
 2.) On the top right corner, you will see an "AUTHENTICATE" button. Click on it and it will take
     you to the log in page. Add some email and password(must be atleast 6 characters long) and click on Submit.
