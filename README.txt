@@ -8,14 +8,14 @@ Instructions:
 To install the project on your local system perform the following steps :-
 
 1.) Install node package manager(npm) on your PC after downloading it from the following link "https://nodejs.org/en/".
-2.) Download files from the following directory: https://github.com/praneethmv17/Food_Builder/tree/master/Week_12
+2.) Download files from the following directory: "https://github.com/praneethmv17/Food_Builder/tree/master/Week_12"
     (OR)
-    Navigate to the Week_12 folder after downloading the whole project from 
+    Navigate to the "Week_12" folder after downloading the whole project from "https://github.com/praneethmv17/Food_Builder"
 3.) Navigate to the burger-project folder.
 4.) Open Windows PowerShell(or)Terminal in the folder.
 5.) Execute the following command to start the project - "npm start"
-6.) You will observe that your Browser will pop-up and will start the project.
-7.) To EXIT from the project, press "Ctrl + c" in the terminal/powershell window.
+6.) You will observe that your Browser will pop-up and will start the App.
+7.) To EXIT from the project, press "ctrl + c" in the terminal/powershell window.
 
 To navigate inside the project, perform the following steps:-  
 
